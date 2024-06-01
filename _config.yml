@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://veraphotography.github.io/photorama/gallery/"  
-  - JOURNAL: "https://veraphotography.github.io/photorama/journal/"
-  - ABOUT: "https://veraphotography.github.io/photorama/about/"
+  - GALLERY: "https://veraphotography.github.io/veraphotography/gallery/"  
+  - JOURNAL: "https://veraphotography.github.io/veraphotography/journal/"
+  - ABOUT: "https://veraphotography.github.io/veraphotography/about/"
 
 # All translation keys
 translations:
